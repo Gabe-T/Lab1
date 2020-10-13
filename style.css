@@ -1,0 +1,28 @@
+body{
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+    color: #69696a;
+}
+.bold{
+    font-weight: bold;
+    color: #000;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+button{
+    background-color: #000;
+    color: #FFF;
+    height: 50px;
+    width: 97vh; 
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+    color: #69696a;
+}
+.border{
+    border-left: #000;
+}
