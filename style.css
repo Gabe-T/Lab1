@@ -16,13 +16,44 @@ button{
     background-color: #000;
     color: #FFF;
     height: 50px;
-    width: 97vh; 
+    width: 99vh; 
     border-radius: 50px;
+}
+h1{
+    padding-left: 5px;
 }
 a{
     text-decoration: none;
     color: #69696a;
+    padding-left: 5px;
 }
 .border{
     border-left: #000;
+    width: 99vh;
+    padding-left: 5px;
+}
+p{
+       padding-right: 5px;
+ 
+}
+.container{
+    bottom: 0;
+    height: 40px;
+    width: 100vh;
+    background-color: rgba(247, 193, 162, 0.7);
+    padding-right: 5px;
+}
+.name{
+    color: #000;
+    float: left;
+    padding-left: 5px;
+}
+ul.links li{
+    list-style: none;
+    text-decoration: none;
+    color: #69696a;
+    width: auto;
+    float: right;
+    padding-top: 15px;
+    padding-right: 15px;
 }
