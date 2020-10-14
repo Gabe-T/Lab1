@@ -2,6 +2,7 @@ body{
     background-color: #f9fafc;
     font-family: 'Open Sans', sans-serif;
     color: #69696a;
+    height: 100%;
 }
 .bold{
     font-weight: bold;
@@ -37,9 +38,12 @@ p{
     border-left: #000;
 }
 footer{
-    position: bottom;
+    position:absolute;
+    bottom:0; 
 }
 .container{
+    min-height: 100%;
+    position: relative;
     bottom: 0;
     height: 40px;
     width: 100vh;
